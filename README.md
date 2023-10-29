@@ -6,3 +6,5 @@ Install the necessary libraries first:
 `pip install tensorflow pytesseract pillow`
 
 Now, we will use the `main.py` file.
+
+In this example, we use the Tesseract OCR engine through the ``pytesseract`` wrapper. Make sure to replace the ``tesseract_cmd`` path with the correct path on your machine.
